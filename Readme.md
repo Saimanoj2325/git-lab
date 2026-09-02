@@ -1,3 +1,1 @@
-Commit check
-temp check
-nothing
+diff check
